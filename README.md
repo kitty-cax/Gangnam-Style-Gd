@@ -6,3 +6,6 @@ First You'll need To install Geode > https://geode-sdk.org/install
 Go To Install Texture Loader > https://geode-sdk.org/mods/geode.texture-loader
 Or Go Click the Geode Icon In Geometry Dash Then Search Texture Loader And Click install
 Then Click Restart And You Have it Just one More Step!
+Download The Source Code Export The Zip File into Your Texture loader Folder
+Go Open Up Geometry Dash Make A new Level Or Edit an Existing One
+Choose Dash as The Song And That's All!
