@@ -4,3 +4,5 @@ This Adds the Song Gangam Style To Geometry dash (Credit's to YG Entertainment).
 # How to Get It?
 First You'll need To install Geode > https://geode-sdk.org/install
 Go To Install Texture Loader > https://geode-sdk.org/mods/geode.texture-loader
+Or Go Click the Geode Icon In Geometry Dash Then Search Texture Loader And Click install
+Then Click Restart And You Have it Just one More Step!
